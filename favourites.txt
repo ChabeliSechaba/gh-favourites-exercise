@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Peppermint Ice cream
 Soft Pretzels
 Celery
+=======
+Amadeus
+Margin Call
+The Big Shot
+The Fifth Element
+Captain Fantastic
+>>>>>>> movies
